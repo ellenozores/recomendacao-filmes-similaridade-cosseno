@@ -74,6 +74,12 @@ Da biblioteca `scikit-learn`.
 ---
 
 ## ▶️ Como Executar
+1. Baixe os arquivos .csv
+2. Faça upload deles na plataforma usada para copilar o código
+3. Execute os comandos
+4. Digite o nome do filme EM INGLÊS e com as letras INICIAIS EM MAIÚSCULA
 
-1. Clone o repositório:
+## 📌 Exemplo de Uso
+Entrada: Toy Story
+Saída: Toy Story 2, Monsters Inc, Finding Nemo...
 
