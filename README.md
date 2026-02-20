@@ -2,12 +2,6 @@
 
 Projeto desenvolvido em Python utilizando TF-IDF e Similaridade de Cossenos para recomendar filmes com base em características textuais.
 
-## 👩‍💻 Autoras
-- Ellen Ozores
-- Mel Yukari
-
----
-
 ## 📌 Objetivo
 
 Desenvolver um sistema de recomendação baseado em conteúdo (Content-Based Filtering), utilizando informações como:
